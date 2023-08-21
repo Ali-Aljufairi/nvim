@@ -29,7 +29,7 @@ This script only supports Mac, Ubuntu and Arch
 ## Clone this repo into your config
 
 ```
-git clone https://github.com/ChristianChiarulli/nvim.git ~/.config/nvim
+git clone https://github.com/Ali-Aljufairi/nvim.git ~/.config/nvim
 ```
 
 ## Install python & node support
